@@ -2,6 +2,18 @@
 
 Blog for developer's, Where developer's get the latest news and updates of Tech World in the form of GIF's!
 
+## FEATURE'S :
+
+```diff
++ SEMANTIC UI
+```
+```diff
+- CRUD FUNCTIONALTIES
+```
+```diff
++ OUT OF THE BOX BLOG
+```
+
 ## DEVELOPMENT :
 
 1. Clone the Repo
