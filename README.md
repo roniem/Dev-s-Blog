@@ -8,7 +8,7 @@ Blog for developer's, Where developer's get the latest news and updates of Tech 
 + SEMANTIC UI
 ```
 ```diff
-- CRUD FUNCTIONALTIES
++ CRUD FUNCTIONALTIES
 ```
 ```diff
 + OUT OF THE BOX BLOG
